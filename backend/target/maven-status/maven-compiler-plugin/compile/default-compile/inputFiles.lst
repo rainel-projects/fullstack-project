@@ -1,0 +1,4 @@
+/workspaces/fullstack-project/backend/src/main/java/com/example/demo/model/User.java
+/workspaces/fullstack-project/backend/src/main/java/com/example/demo/DemoApplication.java
+/workspaces/fullstack-project/backend/src/main/java/com/example/demo/controller/UserController.java
+/workspaces/fullstack-project/backend/src/main/java/com/example/demo/config/CorsConfig.java

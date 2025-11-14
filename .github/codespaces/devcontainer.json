@@ -1,0 +1,14 @@
+{
+  "name": "Java + React Fullstack",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [8080, 5173],
+  "postCreateCommand": "cd backend && mvn -q install -DskipTests || true",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}
